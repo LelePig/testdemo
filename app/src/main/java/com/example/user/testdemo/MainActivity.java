@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.e("leleTest", "test1");
         Log.e("leleTest", "test2");
+        Log.e("leleTest", "test3");
     }
 }
